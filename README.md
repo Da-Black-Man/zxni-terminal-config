@@ -187,7 +187,7 @@ Key colors:
 ## File Structure
 
 ```
-my-terminal-config/
+zxni-terminal-config/
 ├── README.md
 ├── ghostty/
 │   └── config
